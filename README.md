@@ -1,4 +1,3 @@
-# Cars-Price-Prediction
 
 # cars_price_prediction
 
